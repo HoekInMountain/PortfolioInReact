@@ -8,7 +8,7 @@ This project is a responsive, mobile-first developer portfolio created using Rea
 
 ## 🌐 Live Demo
 
-🔗 [View Deployed Site on Netlify](https://celebrated-pastelito-3107c3.netlify.app/portfolio)
+🔗 [View Deployed Site on Netlify](https://celebrated-pastelito-3107c3.netlify.app/)
 
 ## 🖼️ Screenshot
 
