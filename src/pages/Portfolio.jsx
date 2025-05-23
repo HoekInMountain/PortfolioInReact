@@ -5,8 +5,8 @@ export default function Portfolio() {
     {
       title: 'Project 1',
       image: '/project1.png',
-      deployed: 'https://example.com/project1',
-      github: 'https://github.com/yourname/project1'
+      deployed: 'https://your-app.onrender.com',
+      github: 'https://github.com/lobungen/Booking-on-a-Budget.git'
     },
     // Repeat for 6 total
   ];
